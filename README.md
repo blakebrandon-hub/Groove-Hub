@@ -1,4 +1,4 @@
-# 🎵 Groove Hub 2.0
+# 🎵 Groove Hub
 
 Groove Hub is a virtual space where users can chat, share music from YouTube, and listen together in sync
 
@@ -7,7 +7,7 @@ Groove Hub is a virtual space where users can chat, share music from YouTube, an
 
 ## Features
 
-## ✨ What's New in 2.0
+## ✨ What's New
 
 - ✨ Improved sync
 - 🔒 Create public or private rooms
